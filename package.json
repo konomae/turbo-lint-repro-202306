@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "dependencies": {
+    "eslint": "8.43.0",
+    "eslint-config-turbo": "1.10.6"
+  },
+  "workspaces": [
+    "apps/*"
+  ]
+}
